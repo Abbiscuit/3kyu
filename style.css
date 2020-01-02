@@ -1,0 +1,27 @@
+body {
+  background-color: #fafafa;
+}
+
+.feed {
+  margin-top: 40px;
+}
+
+.feed-detail {
+  margin-top: 40px;
+  max-width: 600px;
+}
+
+.search-wrapper {
+  max-width: 600px;
+  margin: 40px auto 0;
+}
+
+.signup {
+  max-width: 600px;
+  margin: 40px auto 0;
+}
+
+.profile {
+  max-width: 600px;
+  margin: 40px auto 0;
+}
